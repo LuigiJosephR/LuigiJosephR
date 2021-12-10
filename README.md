@@ -14,7 +14,8 @@
 
 <h3 align="left">✨ GitHub Stats:</h3>
 <p align="center">
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=luigijosephr&show_icons=true&theme=dark&locale=en&layout=compact" alt="luigijosephr" /></p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luigijosephr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luigijosephr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
-
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luigijosephr&show_icons=true&theme=radical&locale=en" alt="luigijosephr" /></p>
